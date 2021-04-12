@@ -10,6 +10,7 @@
 
 ## JOURNAL DE BORD
 09.04.2021 à 14:00 nous avons travaillé grâce à un zoom en groupe. Nous avons fait la première fonction (GeneratePicture1) et la seconde (GeneratePicture2)
+
 11.04.2021 à 16:00 nous avons travaillé une deuxième fois en groupe par zoom. Là nous avons terminé les deux dernières images (fonction unir deux images et fonction transparence)
 
 ## DOCUMENTATION
