@@ -14,15 +14,13 @@
 11.04.2021 à 16:00 nous avons travaillé une deuxième fois en groupe par zoom. Là nous avons terminé les deux dernières images (fonction unir deux images et fonction transparence)
 
 ## DOCUMENTATION
-GeneratePicture1:
-Nous avons mit quatre commandes en une fonction:
+Fonction GeneratePicture1:
 1. découper l'image en bandes verticales
 2. tourner l'image de 90 degrés
 3. découper en bandes verticales
 4. tourner l'image à sa position initiale
 
-GeneratePicture2:
-Nous avons mit 
+Fonction GeneratePicture2:
 1. Calculer la distance
 2. Calculer la taille des boîtes
 3. Encadrer les boîtes en rouge
