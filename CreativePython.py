@@ -111,4 +111,4 @@ elif choix == 2:
 #img3.show()
 #img4.show()
 #img5.show()
-#img6.show()
+
