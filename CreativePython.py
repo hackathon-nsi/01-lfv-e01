@@ -78,20 +78,6 @@ img4.show()
 
 
 
-
-
-# supperposer les 2 images avec une mask une d entre eux aura une ellipse floue
-
-
-maxX,maxY = img1.size
-x,y = maxX/2,maxY/2
-mask = Image.new("L", img1.size, 0)
-draw = ImageDraw.Draw(mask)
-draw.ellipse((x-100,y-300,x+100,y+300), fill=255)
-mask_blur = mask.filter(ImageFilter.GaussianBlur(20))
-img5 = Image.composite(img1, img2, mask_blur)
-
-
 img3.convert("L")
 
 #img6 = Image.composite(im.copy().resize(img5.size), img5, img3)
