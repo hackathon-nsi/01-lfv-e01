@@ -85,7 +85,7 @@ img3.convert("L")
 print(img5.size)
 print(img3.size)
 
-choix = input("1 = generate picture 1, 2 = generate picture 2, 3 = filtre, 4 = mask, 5 = mask et ellipse floue ")
+choix = input("1 = generate picture 1, 2 = generate picture 2, 3 = filtre, 4 = mask")
 choix = int(choix)
 if choix == 1 :
     img1.show()
