@@ -96,5 +96,3 @@ elif choix == 2:
 #img2.show()
 #img3.show()
 #img4.show()
-#img5.show()
-
