@@ -1,5 +1,5 @@
 from PIL import Image,ImageDraw,ImageFilter
-from IPython.display import display
+#from IPython.display import display
 import urllib.request
 # ouvrir une image hberge sur internet
 im = Image.open(urllib.request.urlopen('https://i.pinimg.com/originals/09/77/5d/09775d1e419f8e781a651b12ecbcfa70.png'))
@@ -99,7 +99,7 @@ img3.convert("L")
 print(img5.size)
 print(img3.size)
 
-choix = inout("1 = generate picture 1, 2 = generate picture 2, 3 = filtre, 4 = mask, 5 = mask et ellipse floue ")
+choix = input("1 = generate picture 1, 2 = generate picture 2, 3 = filtre, 4 = mask, 5 = mask et ellipse floue ")
 choix = int(choix)
 if choix == 1 :
     img1.show()
