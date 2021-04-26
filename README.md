@@ -13,9 +13,12 @@
 
 11.04.2021 à 16:00 nous avons travaillé une deuxième fois en groupe par zoom. Là nous avons terminé les deux dernières images (fonction unir deux images et fonction transparence)
 
-26.04.2021 à 
+26.04.2021 à midi Valérie a mis un menu où l'observateur peut choisir la photo qu'il veut ouvrir.
 
 ## DOCUMENTATION
+Nous avons créé avec une photo 4 fonctions différentes.
+L'observateur peut choisir au début une des fonctions qu'il veut ouvrir.
+
 Fonction GeneratePicture1:
 1. découper l'image en bandes verticales
 2. tourner l'image de 90 degrés
@@ -32,7 +35,3 @@ Fonction filtre:
 
 Fonction unir deux images:
 1. Unir les images GeneratePicture1 et GeneratePicture2
-
-Fonction transparence
-1. Prendre la #fonction_unir_deux_images
-2. Rendre une des deux images un peu transparente
