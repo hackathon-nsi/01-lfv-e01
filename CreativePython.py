@@ -80,7 +80,7 @@ img4.show()
 
 
 
-# unir les 2 images avec une mask 2 Bilder übereinanderlegen wobei die maske eine blured ellipse ist
+# supperposer les 2 images avec une mask une d entre eux aura une ellipse floue
 
 
 maxX,maxY = img1.size
